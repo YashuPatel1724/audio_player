@@ -1,5 +1,18 @@
 <h1 align="center">👉 Audio Player App 👈</h1>
 
+## Description
+A beautifully designed Flutter application for streaming and exploring music. The app features a clean UI, gradient backgrounds, and seamless navigation. Built with Provider for state management and incorporates various modern Flutter packages for an enhanced user experience.
+
+## ✨ Features:
+- Custom Music Rows: Dynamic display of trending songs, artists, and curated playlists.
+- Search Functionality: Search for songs, albums, or artists with a sleek search bar.
+- Drawer Navigation: Access additional features and settings via a responsive navigation drawer.
+- Shimmer Effect: Smooth placeholder animations for loading states.
+- API Integration: Fetches data from a music API for real-time updates.
+## 🛠️ Tech Stack:
+- Flutter: Front-end development.
+- Provider: State management.
+- Custom UI Components: Drawer, search bar, and gradient backgrounds.
 
 <h3 align="center"> Audio Player App Video </h3>
 <div align="center">
